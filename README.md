@@ -28,6 +28,4 @@ After first doing some online courses, studying and practicing on my own, I deci
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bdseerden&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdseerden&hide=html&layout=compact&theme=highcontrast" />
  
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
  </details>
