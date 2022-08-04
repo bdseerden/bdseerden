@@ -19,7 +19,7 @@ After first doing some online courses, studying and practicing on my own, I deci
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,react,redux,postgres,github,js,ts,bootstrap,express" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js,ts,react,redux,postgres,bootstrap,express" />
   </a>
 </p>
 
