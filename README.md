@@ -9,14 +9,6 @@ After first doing some online courses, studying and practicing on my own, I deci
 <img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
 
 <br>
-<h2>Social Networks</h2>
-
-[![LinkedIn][1.1]][1]
-
-[1.1]: https://s4.uupload.ir/files/linkedin_amwn.png
-[1]: https://www.linkedin.com/in/bo-seerden/
-
-<br>
 <h2>Skills</h2>
 
 <p align="center">
@@ -24,6 +16,7 @@ After first doing some online courses, studying and practicing on my own, I deci
     <img src="https://skillicons.dev/icons?i=github,git,vscode,html,css,js,ts,react,redux,postgres,bootstrap,express" />
   </a>
 </p>
+<br>
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
