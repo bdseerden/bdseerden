@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=bdseerden%20&fontAlignY=40&color=gradient)
 
-### :man_technologist: I'm Bo - a full stack developer based in The Netherlands
+### :man_technologist: I'm Bo Seerden - a full stack developer based in The Netherlands
 
 I'm a former professional music producer that made a career switch into coding. After producing music for 4 years I felt empty despite my success. As a Music producer you’re pretty isolated and there's a certain lifestyle involved with it that I had outgrown. I was looking for a more mature and team oriented environment. Music production is very technical so that got me thinking about other tech related jobs. I always had the dream of learning software development one day and creating my own websites and apps but didn't know where to start. My brother in law introduced me to the world of bootcamps for career changers. He went through the Codaisseur bootcamp himself and he loved it – it convinced me to take the bootcamp route into software development.
 
