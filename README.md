@@ -2,10 +2,6 @@
 
 ### :man_technologist: I'm Bo Seerden - a full stack developer based in The Netherlands
 
-After 4 years of being a professional music producer & audio engineer I decided to make a career switch into programming.
-
-After first doing some online courses, studying and practicing on my own, I decided to follow the full stack development bootcamp at [Codaisseur Academy](https://codaisseur.com/courses/academy/) in Amsterdam. I [graduated](https://app.digit.ink/view-credential/bceb5db3-962a-4154-9611-d9a3ab3290b6?di_ref=a2li) Codaisseur Academy the 22th of July 2022.
-
 Click [here](https://www.linkedin.com/in/boseerden/overlay/1635499381842/single-media-viewer/) to see my resume!
 
 <img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
