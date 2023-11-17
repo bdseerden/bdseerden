@@ -11,7 +11,7 @@ Click [here](https://www.linkedin.com/in/boseerden/overlay/1635499381842/single-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/boseerden/">
-    <img src="https://skillicons.dev/icons?i=js,svelte,go,react,redux,postgres,bootstrap,express,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=js,svelte,go,react,redux,postgres,bootstrap,express,git" />
   </a>
 </p>
 <br>
